@@ -3,7 +3,7 @@ Introduction
 This project is an implementation of a decision tree algorithm to classify individuals based on their demographic variables and income. The dataset used in this project is obtained from the Census Bureau and contains 48,842 instances with seven demographic variables and two target classes: '>50K' and '<=50K'.
 
 ## Data Source and Contents
-The dataset used in this project is available in the following path: "https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true". The data contains seven columns and 48,842 rows, with a binary target variable indicating whether the individual's income is greater than 50K or not.
+The dataset used in this project is available in the following path: "https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true".  The data contains seven columns and 48,842 rows, with a binary target variable indicating whether the individual's income is greater than 50K or not.
 
 ## Data Quality Analysis
 The first step in the project was to perform a data quality analysis to find missing values, outliers, and NaNs in the dataset. Descriptive statistics of each column were also calculated, and a data quality report was created. Necessary data cleansing and transformation was then performed based on the observations from the data quality analysis.
